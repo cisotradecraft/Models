@@ -4,6 +4,7 @@
 
 ## Detection & Response Capabilities Models
 ### [The Diamond Model of Intrusion Analysis](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
+### [PICERL Incident Response Lifecycle](https://www.sans.org/media/score/504-incident-response-cycle.pdf)
 
 ## Governance Models
 ### [Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/)
