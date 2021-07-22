@@ -9,5 +9,5 @@
 ### [Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/)
 ### [OWASP Threat and Safeguard Matrix](https://owasp.org/www-project-threat-and-safeguard-matrix/)
 
-## Product Security
+## Product Security Models
 ### [McCumber Cube](https://en.wikipedia.org/wiki/McCumber_cube)
