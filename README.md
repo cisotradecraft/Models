@@ -11,3 +11,7 @@
 
 ## Product Security Models
 ### [McCumber Cube](https://en.wikipedia.org/wiki/McCumber_cube)
+
+## Offensive Security Models
+### [Cyber Kill Chain®](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+### [Mitre ATT&CK®](https://attack.mitre.org/matrices/enterprise/)
